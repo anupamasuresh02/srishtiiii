@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+   <html lang="en"> 
+ <head>  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"
+<title>Document</title>
+<style>
+h1{
+ color:red;
+ 
+
+}
+</style>
+<script>
+let name="Anupama"
+let num=10
+let yob=2002
+let age=2024-yob
+console.log("age:",age)
+console.log("HELLO....",name)
+console.log(num)
+</script>
+</head>
+<body>
+<h1>INDIA</h1>
+<h1 style="color:green;"PAKISTAN</h1>
+<p style="border-width:5px;
+border-color:aqua;
+border-style:dotted;"<p> I am anupama</p>
+<img src="C:\Users\HP\Pictures\89a4ef9ff7t79f546589695ca34df48b2.jpg"alt="image of sky" height="100px"/>
+<a href="second.html">click here</a>
+<form>
+Name:<input type="text">
+email:<input type="email">
+ok:<input type="submit" value="OK">
+</form>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
